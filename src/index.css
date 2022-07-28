@@ -9,6 +9,12 @@
     background-position: center;
 }
 
+.success {
+    
+    background-image: linear-gradient(#1565d5e6,#1565d5e6), url('./assets//bg.jfif');
+    background-size: cover;
+    background-position: center;
+}
 body{
     font-family: 'Gayathri', sans-serif;
 }

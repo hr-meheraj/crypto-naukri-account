@@ -28,7 +28,7 @@ const RightSide = () => {
           <p className='text font-bold text-[16px] text-[#8692ab] '>Residency Info.</p>
         </div>
       </div>
-      <div className='mx-auto md:w-[90%]'>
+      <div className='mx-auto lg:w-[90%]'>
         <h2 className='text-center text-[30px] text font-bold text-[#000] leading-[37px] mb-3'>Complete Your Profile!</h2>
         <p className='text text-center text-[#8692ab] text-[18px] font-normal leading-[28px] '>For the purpose of industry regulation, your details are required.</p>
         <ResidencyForm/>
